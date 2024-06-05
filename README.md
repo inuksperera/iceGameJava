@@ -1,4 +1,5 @@
-# Ice Game made using Java for a research about Big O Notation
+# Ice Game
+## Ice Game made using Java for a research about Big O Notation
 
 This project consists of a game where the player is sliding on ice from the starting position and bouncing off obstacles until they 
 finish the maze by reaching the finish point. The player cannot change directions unless they hit an obstacle. The maze is found in 
