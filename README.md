@@ -15,6 +15,7 @@ each time to finally compare how the time complexity of the program changes.
 
 Input:
 ![image](https://github.com/inuksperera/iceGameJava/assets/110172780/a47efb70-8017-420b-a6e6-631b746f4249)
+
 Output:
 ![image](https://github.com/inuksperera/iceGameJava/assets/110172780/c09e9a67-86a3-4744-92f9-8b2e13c4f50d)
 
