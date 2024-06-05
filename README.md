@@ -18,14 +18,18 @@ Input:
 ![image](https://github.com/inuksperera/iceGameJava/assets/110172780/a47efb70-8017-420b-a6e6-631b746f4249)
 
 Output:
+
 ![image](https://github.com/inuksperera/iceGameJava/assets/110172780/c09e9a67-86a3-4744-92f9-8b2e13c4f50d)
 
 
 ## Program Example #2
 
 Input:
+
 ![image](https://github.com/inuksperera/iceGameJava/assets/110172780/9e8b0c5c-2c57-456b-a780-8c08b2ed61b5)
+
 Output:
+
 ![image](https://github.com/inuksperera/iceGameJava/assets/110172780/fafa7412-5c50-4c24-8e8e-f799550355ee)
 
 
