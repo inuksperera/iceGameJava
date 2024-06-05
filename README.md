@@ -14,6 +14,7 @@ each time to finally compare how the time complexity of the program changes.
 ## Program Example #1
 
 Input:
+
 ![image](https://github.com/inuksperera/iceGameJava/assets/110172780/a47efb70-8017-420b-a6e6-631b746f4249)
 
 Output:
